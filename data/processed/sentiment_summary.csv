@@ -1,0 +1,4 @@
+sentiment,reactions,popularity_score,reaction_pct
+negative,2445,22312.0,9.785479868726487
+neutral,1463,38335.0,5.85527895621548
+positive,21078,1191579.0,84.35924117505803

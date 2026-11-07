@@ -1,0 +1,13 @@
+{
+  "raw_reaction_rows": 25001,
+  "after_reaction_id_dedup": 25000,
+  "unmatched_content_ids": 1,
+  "unmatched_reaction_types": 2,
+  "missing_category_after_join": 11,
+  "invalid_datetimes": 1,
+  "clean_reaction_rows": 24986,
+  "excluded_after_joins": 14,
+  "total_popularity_points": 1252226.0,
+  "top_category": "animals",
+  "top5_score_share_pct": 62.93193081760002
+}

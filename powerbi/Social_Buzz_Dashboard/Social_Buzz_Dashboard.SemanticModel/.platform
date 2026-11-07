@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Social Buzz Analytics Model"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "30f572e1-dc00-5450-9759-6b643b797a8b"
+  }
+}

@@ -1,0 +1,61 @@
+category,content_type,reactions,popularity_score
+animals,gif,579,29509.0
+animals,photo,2826,141816.0
+animals,video,1224,61875.0
+cooking,audio,46,2061.0
+cooking,gif,171,8025.0
+cooking,photo,593,29237.0
+cooking,video,278,13823.0
+culture,audio,18,977.0
+culture,gif,133,6576.0
+culture,photo,586,29214.0
+culture,video,438,22362.0
+dogs,audio,44,2060.0
+dogs,gif,67,3401.0
+dogs,photo,387,20182.0
+dogs,video,121,5976.0
+education,audio,6,242.0
+education,gif,80,3826.0
+education,photo,550,27651.0
+education,video,372,18735.0
+fitness,gif,71,3789.0
+fitness,photo,958,48224.0
+fitness,video,418,21215.0
+food,audio,65,3272.0
+food,gif,251,12667.0
+food,photo,1148,56685.0
+food,video,864,43766.0
+healthy eating,audio,71,3494.0
+healthy eating,gif,368,18676.0
+healthy eating,photo,1413,70134.0
+healthy eating,video,907,44956.0
+public speaking,audio,23,1262.0
+public speaking,gif,36,1768.0
+public speaking,photo,311,15848.0
+public speaking,video,89,4088.0
+science,audio,73,3629.0
+science,gif,568,28627.0
+science,photo,1692,84117.0
+science,video,854,42943.0
+soccer,audio,10,482.0
+soccer,gif,53,2685.0
+soccer,photo,256,12872.0
+soccer,video,91,4279.0
+studying,gif,99,4612.0
+studying,photo,324,16794.0
+studying,video,142,6810.0
+technology,gif,569,27979.0
+technology,photo,1298,66343.0
+technology,video,949,47562.0
+tennis,audio,12,689.0
+tennis,gif,70,3428.0
+tennis,photo,412,21086.0
+tennis,video,103,5252.0
+travel,audio,31,1361.0
+travel,gif,108,5475.0
+travel,photo,662,32778.0
+travel,video,407,19939.0
+veganism,audio,60,2993.0
+veganism,gif,91,4376.0
+veganism,photo,325,16972.0
+veganism,video,215,10751.0
