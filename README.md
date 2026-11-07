@@ -1,4 +1,4 @@
-# Tata Data Visualisation Virtual Experience Program
+# Data Visualisation Virtual Experience Program
 
 ## 📌 Overview
 This repository contains my work completed as part of the **Tata Group Data Visualisation: Empowering Business with Effective Insights Virtual Experience Program** on Forage.
